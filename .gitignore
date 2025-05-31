@@ -1,0 +1,9 @@
+# .gitignore
+
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+.env
+ptv_train_project/data/raw/
+ptv_train_project/data/processed/
+ptv_train_project/config
